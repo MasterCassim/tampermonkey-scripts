@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Consors VISA reports
 // @namespace    https://fre-y.de/
-// @version      0.1
+// @version      0.2
 // @description  Generate reports!
 // @author       Tobias Frey
 // @include      https://www.consorsbank.de/ev/Mein-Konto-und-Depot/Konten/Umsatzuebersicht*
